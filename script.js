@@ -6,6 +6,8 @@ function validate()
     {
         alert("Sign in successful");
         return false;
+        
+        window.location.href = "https://shintogvarghese.github.io/WSD-Lab-2/";
     }
 
     else
